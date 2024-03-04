@@ -1,5 +1,3 @@
-# Zachary Kobban
-
 ## Technical Skills
 Python, C++, R, STATA, Excel, Microsoft 365, R Studio, Maple, Power BI
 
