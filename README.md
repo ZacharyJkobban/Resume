@@ -4,7 +4,7 @@ Python, C++, R, STATA, Excel, Microsoft 365, R Studio, Maple, Wolfram Mathematic
 ## Education
 - **Kenyon College, Gambier, OH**  
   B.A. in Economics and Mathematics, _Anticipated Graduation: May 2025_  
-  Relevant Coursework: Linear Algebra, Partial Differential Equations, Economic Policy With Data, Data Analysis, Advanced Micro and Macroeconomics, Multivariable Calculus, Programming in Python and Java
+  Relevant Coursework: Linear Algebra, Partial Differential Equations, Economic Policy With Data, Data Analysis, Advanced Micro and Macroeconomics, Real Analysis, Programming in Python and Java
 
 - **The College Preparatory School, Oakland, CA**  
   High School Diploma, _Graduated: May 2021_  
@@ -23,25 +23,26 @@ _Data Analysis Research Intern, Fall 2023_
 - Prepared and presented policy recommendations to the county council and Mayor  
 - Facilitated connections between local agencies and the Foundation's job training strategy through effective communication
 
-**Eco Performance Builders, Oakland, CA**  
-_HVAC Technician, Summer 2023_  
-- Contributed to energy upgrades improving home energy efficiency by an average of 20%  
-- Worked alongside senior technicians in the repair and maintenance of residential HVAC systems
+**Delta Tau Delta, Gambier, OH**  
+_President, 2024-2025_  
+- Elected as President of the fraternity, demonstrating strong leadership and organizational skills. Tasked with managing a diverse team to foster a positive, inclusive community and culture.
+- Enhanced communication and conflict resolution abilities by serving as the primary liaison between fraternity members, university administration, and external organizations, ensuring smooth operation and adherence to all guidelines and policies.
 
 **American Red Cross, Gambier, OH**  
 _Blood Program Leader, 2022-2023_  
 - Organized and led ten blood drives annually, collecting over 412 units of blood and impacting over 600 lives  
 - Enhanced blood donation frequency and turnout on campus through various advertising methods
 
-**Delta Tau Delta, Gambier, OH**  
-_President, 2024-2025_  
-- Elected as President of the fraternity, demonstrating strong leadership and organizational skills. Tasked with managing a diverse team to foster a positive, inclusive community and culture.
-- Enhanced communication and conflict resolution abilities by serving as the primary liaison between fraternity members, university administration, and external organizations, ensuring smooth operation and adherence to all guidelines and policies.
+**Eco Performance Builders, Oakland, CA**  
+_HVAC Technician, Summer 2023_  
+- Contributed to energy upgrades improving home energy efficiency by an average of 20%  
+- Worked alongside senior technicians in the repair and maintenance of residential HVAC systems
+
 
 ## Reserch Papers
-_Compleated as of March 4th 2024_
+_Completed as of March 4th 2024_
 - [Assessing the Economic Cost of California's Cap and Trade Program Through a Difference-in-Difference Analysis](https://zacharyjkobban.github.io/Resume/Assessing the Economic Cost of California's Cap and Trade Program Through a Difference-in-Difference Analysis.pdf)
-- [Modeling Field Goal Outcomes in the NFL Using a Logistic Regression Method](https://zacharyjkobban.github.io/Resume/Modeling Field Goal Outcomes in the NFL Using a Logistic Regression Method.pdf)
+- [Modeling Field Goal Outcomes in the NFL Using the Logistic Regression Method](https://zacharyjkobban.github.io/Resume/Modeling Field Goal Outcomes in the NFL Using a Logistic Regression Method.pdf)
 - [Efficiency vs Resilience: Texas Energy Systems 2021 Market Failure](https://zacharyjkobban.github.io/Resume/Efficiency vs Resilience Texas Energy Systems 2021 Market Failure.pdf)
 
 _Proposed_
@@ -51,3 +52,4 @@ _Proposed_
 ## Other Skills
 - CPR and First Aid certified by the American Red Cross  
 - Fluent in Spanish, with strong communication skills and experience in cross-cultural environments
+- Love to cook :)
