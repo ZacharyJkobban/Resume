@@ -1,5 +1,5 @@
 ## Technical Skills
-Python, C++, R, STATA, Excel, Microsoft 365, R Studio, Maple, Power BI
+Python, C++, R, STATA, Excel, Microsoft 365, R Studio, Maple, Wolfram Mathematica
 
 ## Education
 - **Kenyon College, Gambier, OH**  
@@ -34,9 +34,19 @@ _Blood Program Leader, 2022-2023_
 - Enhanced blood donation frequency and turnout on campus through various advertising methods
 
 **Delta Tau Delta, Gambier, OH**  
-_President, 2024-_  
+_President, 2024-2025_  
 - Elected as President of the fraternity, demonstrating strong leadership and organizational skills. Tasked with managing a diverse team to foster a positive, inclusive community and culture.
 - Enhanced communication and conflict resolution abilities by serving as the primary liaison between fraternity members, university administration, and external organizations, ensuring smooth operation and adherence to all guidelines and policies.
+
+## Reserch Papers
+_Compleated as of March 4th 2024_
+- [Assessing the Economic Cost of California's Cap and Trade Program Through a Difference-in-Difference Analysis](https://zacharyjkobban.github.io/Resume/Assessing the Economic Cost of California's Cap and Trade Program Through a Difference-in-Difference Analysis.pdf)
+- [Modeling Field Goal Outcomes in the NFL Using a Logistic Regression Method](https://zacharyjkobban.github.io/Resume/Modeling Field Goal Outcomes in the NFL Using a Logistic Regression Method.pdf)
+- [Efficiency vs Resilience: Texas Energy Systems 2021 Market Failure](https://zacharyjkobban.github.io/Resume/Efficiency vs Resilience Texas Energy Systems 2021 Market Failure.pdf)
+
+_Proposed_
+- [Analysis of the Efficacy of Development Subsidy Policy in the United States](https://zacharyjkobban.github.io/Resume/Zachary Kobban SSS 2024.pdf)
+  
 
 ## Other Skills
 - CPR and First Aid certified by the American Red Cross  
