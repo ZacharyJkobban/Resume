@@ -1,4 +1,5 @@
 title: Zachary Kobban 
-logo: /Zach Sun.JPG
-#show_downloads: true
+logo: /ZachHeadshot.png
+#description: My resume and portafolio
+show_downloads: true
 theme: jekyll-theme-minimal
