@@ -1,10 +1,10 @@
 ## Technical Skills
-Python, C++, R, STATA, Excel, Microsoft 365, R Studio, Maple, Wolfram Mathematica
+R | STATA | Excel | Microsoft 365 | Maple | Python (NumPy, Pandas) | C++ | Java | Javascript (React.js, Node.js) | SQL | Mongodb | Wolfram Mathematica | MatLab
 
 ## Education
 - **Kenyon College, Gambier, OH**  
-  B.A. in Economics and Mathematics, _Anticipated Graduation: May 2025_  
-  Relevant Coursework: Linear Algebra, Partial Differential Equations, Economic Policy With Data, Data Analysis, Advanced Micro and Macroeconomics, Real Analysis, Programming in Python and Java
+  Double Major in Economics and Mathematics, _Anticipated Graduation: May 2025_  
+  Relevant Coursework: Partial Differential Equations, Linear Algebra, Economic Policy With Data, Data Analysis, Advanced Micro and Macroeconomics, Real Analysis, Programming in Python and Java
 
 - **The College Preparatory School, Oakland, CA**  
   High School Diploma, _Graduated: May 2021_  
@@ -14,30 +14,24 @@ Python, C++, R, STATA, Excel, Microsoft 365, R Studio, Maple, Wolfram Mathematic
 **Programming and Computing Department, Kenyon College, Gambier, OH**  
 _Programming Course Tutor and Teaching Assistant, Fall 2023_  
 - Requested specifically by the course professor to assist in teaching C++ and Python material as a teaching assistant  
-- Provided support in a tutoring center, assisting students with projects, homework, and understanding course material  
-- Applied metacognition methods to enhance student learning
+- Assisted college students with course material, projects and homework at a tutoring center.
+- Utilized training in metacognition methods to better serve students.
 
 **Knox County Area Development Foundation, Gambier, OH**  
 _Data Analysis Research Intern, Fall 2023_  
-- Analyzed growth trends in small towns using R, STATA, and Excel, identifying weaknesses in Knox County's development strategy 
-- Prepared and presented policy recommendations to the county council and Mayor  
-- Facilitated connections between local agencies and the Foundation's job training strategy through effective communication
+- Analyzed growth trends in small towns using R, STATA, and Excel, identifying weaknesses in Knox County's development strategy.
+- Developed policy recommendations and presented them directly to the county council and Mayor.
+- Utilized strong communication skills to connect local agencies and companies to the Foundation’s job training strategy.
 
 **Delta Tau Delta, Gambier, OH**  
-_President, 2024-2025_  
+_Chapter President, 2024-2025_  
 - Elected as President of the fraternity, demonstrating strong leadership and organizational skills. Tasked with managing a diverse team to foster a positive, inclusive community and culture.
 - Enhanced communication and conflict resolution abilities by serving as the primary liaison between fraternity members, university administration, and external organizations, ensuring smooth operation and adherence to all guidelines and policies.
 
 **American Red Cross, Gambier, OH**  
 _Blood Program Leader, 2022-2023_  
-- Organized and led ten blood drives annually, collecting over 412 units of blood and impacting over 600 lives  
-- Enhanced blood donation frequency and turnout on campus through various advertising methods
-
-**Eco Performance Builders, Oakland, CA**  
-_HVAC Technician, Summer 2023_  
-- Contributed to energy upgrades improving home energy efficiency by an average of 20%  
-- Worked alongside senior technicians in the repair and maintenance of residential HVAC systems
-
+- Led the set up and execution of five highly successful blood drives each semester. Each time we collected over 206 units of blood and impacted 300+ lives.
+- Partnered directly with the Red Cross to ramp up the frequency and scale of blood donation across my college campus. Drove successful turnout through digital, mixed media and in person advertising.
 
 ## Reserch Papers
 _Completed as of March 4th 2024_
@@ -51,5 +45,4 @@ _Proposed_
 
 ## Other Skills
 - CPR and First Aid certified by the American Red Cross  
-- Fluent in Spanish, with strong communication skills and experience in cross-cultural environments
-- Love to cook :)
+- Language Proficiency: Fluent in Spanish speaking, reading, writing; (Mexican ancestry) with excellent communication skills and demonstrated experience in cross-cultural environments.
